@@ -8,7 +8,7 @@ client.once('ready', () => {
 })
 
 client.on('message', msg => {
-    if (msg.content === 'Olá') {
+    if (msg.content == 'Olá') {
         msg.reply('Opa, salve!')
     }
 })
