@@ -1,0 +1,13 @@
+C:\Dev\DuckDiscord\DuckDiscord\bin\Debug\netcoreapp2.1\DuckDiscord.deps.json
+C:\Dev\DuckDiscord\DuckDiscord\bin\Debug\netcoreapp2.1\DuckDiscord.runtimeconfig.json
+C:\Dev\DuckDiscord\DuckDiscord\bin\Debug\netcoreapp2.1\DuckDiscord.runtimeconfig.dev.json
+C:\Dev\DuckDiscord\DuckDiscord\bin\Debug\netcoreapp2.1\DuckDiscord.dll
+C:\Dev\DuckDiscord\DuckDiscord\bin\Debug\netcoreapp2.1\DuckDiscord.pdb
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.csproj.AssemblyReference.cache
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.AssemblyInfoInputs.cache
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.AssemblyInfo.cs
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.csproj.CoreCompileInputs.cache
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.dll
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.pdb
+C:\Dev\DuckDiscord\DuckDiscord\obj\Debug\netcoreapp2.1\DuckDiscord.genruntimeconfig.cache
