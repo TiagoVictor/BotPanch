@@ -14,7 +14,7 @@ namespace DuckDiscord.Modules
         [Command("ping")]
         public async Task Ping()
         {
-            await ReplyAsync("vc da o cu");
+            await ReplyAsync("pong");
         }
 
         [Command("ban")]
